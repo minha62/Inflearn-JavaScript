@@ -1,2 +1,12 @@
-# Inflearn-JavaScript
-인프런 자바스크립트 강좌 정리
+## 자바스크립트 비기너: 튼튼한 기본 만들기
+
+|범위|정리|
+|:-----|:---:|
+|`1.기본 문법`|[tistory](https://bbirong-cse.tistory.com/3) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95)|
+|`2.연산자(Operator)`|[tistory](https://bbirong-cse.tistory.com/5?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-%EC%97%B0%EC%82%B0%EC%9E%90Operator)|
+|`3.문장(Statement)`|[tistory](https://bbirong-cse.tistory.com/6?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-3.-%EB%AC%B8%EC%9E%A5Statement)|
+|`4.함수(Function)`|[tistory](https://bbirong-cse.tistory.com/7?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-4.-%ED%95%A8%EC%88%98Function)|
+|`5.오브젝트(Object)` `6.빌트인(Built-in)` `7.Number 오브젝트` `8.String 오브젝트`|[tistory](https://bbirong-cse.tistory.com/10?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-5.-Object-Built-in-Number-Object-String-Object)|
+|`9.Object 오브젝트(ES3 기준)` `10.Function 오브젝트` `11.Global 오브젝트`|[tistory](https://bbirong-cse.tistory.com/12?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-6.-Object-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Function-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Global-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-dlzzj2sb)|
+|`12.Array 오브젝트(ES3 기준)` `13.Array 오브젝트(ES5 기준)`|[tistory](https://bbirong-cse.tistory.com/13?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-7.-Array-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-ES3ES5-%EA%B8%B0%EC%A4%80)|
+|`14.Boolean 오브젝트` `15.자바스크립트 특징` `16.Object 오브젝트(ES5 기준)` `17.JSON 오브젝트` `18.Date 오브젝트` `19.Math 오브젝트`|[tistory](https://bbirong-cse.tistory.com/14?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-8.-Boolean-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%95-Object-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8ES5-%EA%B8%B0%EC%A4%80-JSON-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Date-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Math-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
