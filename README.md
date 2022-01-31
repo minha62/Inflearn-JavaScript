@@ -10,3 +10,24 @@
 |`9.Object 오브젝트(ES3 기준)` `10.Function 오브젝트` `11.Global 오브젝트`|[tistory](https://bbirong-cse.tistory.com/12?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-6.-Object-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Function-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Global-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-dlzzj2sb)|
 |`12.Array 오브젝트(ES3 기준)` `13.Array 오브젝트(ES5 기준)`|[tistory](https://bbirong-cse.tistory.com/13?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-7.-Array-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-ES3ES5-%EA%B8%B0%EC%A4%80)|
 |`14.Boolean 오브젝트` `15.자바스크립트 특징` `16.Object 오브젝트(ES5 기준)` `17.JSON 오브젝트` `18.Date 오브젝트` `19.Math 오브젝트`|[tistory](https://bbirong-cse.tistory.com/14?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-8.-Boolean-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%95-Object-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8ES5-%EA%B8%B0%EC%A4%80-JSON-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Date-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Math-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
+
+
+<br>
+
+## 자바스크립트 ES6+ 기본
+|범위|정리|
+|:-----|:---:|
+|`1.소개`|[tistory](https://bbirong-cse.tistory.com/25) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-%EC%86%8C%EA%B0%9C)|
+|`2.let/const 변수`|[tistory](https://bbirong-cse.tistory.com/26?category=914802)  [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-letconst-%EB%B3%80%EC%88%98)|
+|`3.Arrow Function`|[tistory](https://bbirong-cse.tistory.com/27?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-3.-Arrow-Function)|
+|`4.이터레이션(Iteration)`|[tistory](https://bbirong-cse.tistory.com/28?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-4.-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%EC%85%98Iteration)|
+|`5.Spread, Rest`|[tistory](https://bbirong-cse.tistory.com/29?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-5.-Spread-Rest)|
+|`6.Destructuring(분할 할당)`|[tistory](https://bbirong-cse.tistory.com/30?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-6.-Destructuring-%EB%B6%84%ED%95%A0-%ED%95%A0%EB%8B%B9)|
+|`7.for-of문`|[tistory](https://bbirong-cse.tistory.com/31?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-8.-for-of%EB%AC%B8)|
+|`8.연산자, 기타`|[tistory](https://bbirong-cse.tistory.com/32?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-9.-%EC%97%B0%EC%82%B0%EC%9E%90-%EA%B8%B0%ED%83%80)|
+|`9.getter/setter`|[tistory](https://bbirong-cse.tistory.com/33?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-9.-gettersetter)|
+|`10.Number 오브젝트`|[tistory](https://bbirong-cse.tistory.com/34?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-10.-Number-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-h99wrm6o)|
+|`11.String 오브젝트`|[tistory](https://bbirong-cse.tistory.com/35?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-11.String-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
+|`12.Object 오브젝트`|[tistory](https://bbirong-cse.tistory.com/36?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-12.-Object-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
+|`13.Template Literal`|[tistory](https://bbirong-cse.tistory.com/37?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-13.-Template-Literal)|
+|`14.Array 오브젝트`|[tistory](https://bbirong-cse.tistory.com/38?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-14.-Array-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
