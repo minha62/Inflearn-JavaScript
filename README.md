@@ -11,6 +11,13 @@
 |`12.Array 오브젝트(ES3 기준)` `13.Array 오브젝트(ES5 기준)`|[tistory](https://bbirong-cse.tistory.com/13?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-7.-Array-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-ES3ES5-%EA%B8%B0%EC%A4%80)|
 |`14.Boolean 오브젝트` `15.자바스크립트 특징` `16.Object 오브젝트(ES5 기준)` `17.JSON 오브젝트` `18.Date 오브젝트` `19.Math 오브젝트`|[tistory](https://bbirong-cse.tistory.com/14?category=890280) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B9%84%EA%B8%B0%EB%84%88-8.-Boolean-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%95-Object-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8ES5-%EA%B8%B0%EC%A4%80-JSON-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Date-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-Math-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
 
+<br>
+
+## 자바스크립트 중고급
+|범위|정리|
+|:-----|:---:|
+|`0. 중고급 강좌 소개, 범위`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-0.-%EC%A4%91%EA%B3%A0%EA%B8%89-%EA%B0%95%EC%A2%8C-%EC%86%8C%EA%B0%9C-%EB%B2%94%EC%9C%84)| 
+
 
 <br>
 
