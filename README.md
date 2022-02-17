@@ -16,14 +16,14 @@
 ## 자바스크립트 중고급
 |범위|정리|
 |:-----|:---:|
-|`0. 중고급 강좌 소개, 범위`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-0.-%EC%A4%91%EA%B3%A0%EA%B8%89-%EA%B0%95%EC%A2%8C-%EC%86%8C%EA%B0%9C-%EB%B2%94%EC%9C%84)|
-|`1.Function 오브젝트`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-1.Function-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
-|`2. Argument`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-2.-Argument)|
-|`3. 스코프(Scope)`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-%EC%8A%A4%EC%BD%94%ED%94%84Scope)|
-|`4. Execution Context`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-4.-Execution-Context)|
-|`5. function instance`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-5.-function-instance)|
-|`6. this`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-6.-this)|
-|`7. 논리적 정리`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-7.-%EB%85%BC%EB%A6%AC%EC%A0%81-%EC%A0%95%EB%A6%AC)|
+|`0. 중고급 강좌 소개, 범위`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-0.-%EC%A4%91%EA%B3%A0%EA%B8%89-%EA%B0%95%EC%A2%8C-%EC%86%8C%EA%B0%9C-%EB%B2%94%EC%9C%84) [tistory](https://bbirong-cse.tistory.com/52)|
+|`1.Function 오브젝트`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-1.Function-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8) [tistory](https://bbirong-cse.tistory.com/53?category=914801)|
+|`2. Argument`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-2.-Argument) [tistory](https://bbirong-cse.tistory.com/54?category=914801)|
+|`3. 스코프(Scope)`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-%EC%8A%A4%EC%BD%94%ED%94%84Scope) [tistory](https://bbirong-cse.tistory.com/55?category=914801)|
+|`4. Execution Context`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-4.-Execution-Context) [tistory](https://bbirong-cse.tistory.com/57?category=914801)|
+|`5. function instance`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-5.-function-instance) [tistory](https://bbirong-cse.tistory.com/58?category=914801)|
+|`6. this`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-6.-this) [tistory](https://bbirong-cse.tistory.com/59?category=914801)|
+|`7. 논리적 정리`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%A4%91%EA%B3%A0%EA%B8%89-7.-%EB%85%BC%EB%A6%AC%EC%A0%81-%EC%A0%95%EB%A6%AC) [tistory](https://bbirong-cse.tistory.com/60?category=914801)|
 
 
 <br>
