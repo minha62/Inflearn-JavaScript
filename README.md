@@ -55,3 +55,11 @@
 |`22. WeakMap 오브젝트`|[tistory](https://bbirong-cse.tistory.com/48?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-22.-WeakMap-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
 |`23. Set 오브젝트`|[tistory](https://bbirong-cse.tistory.com/49?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-23.-Set-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
 |`24. WeakSet 오브젝트`|[tistory](https://bbirong-cse.tistory.com/51?category=914802) [velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EA%B8%B0%EB%B3%B8-24.-WeakSet-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)|
+
+<br>
+
+## 자바스크립트 ES6+ 심화
+|범위|정리|
+|:-----|:---:|
+|`0. 강좌 소개, 범위`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EC%8B%AC%ED%99%94-0.-%EA%B0%95%EC%A2%8C-%EC%86%8C%EA%B0%9C-%EB%B2%94%EC%9C%84)|
+|`1. Class`|[velog](https://velog.io/@bbirong/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-ES6-%EC%8B%AC%ED%99%94-1.-Class)|
